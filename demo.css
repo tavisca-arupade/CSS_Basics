@@ -53,13 +53,13 @@ body{
 
 .profile{
     margin: 1%;
-    width: 30%;
+    width: 40%;
 }
 
 .image{
     margin-top: 1%;
-    margin-left: 15%;
-    width: 50%;
+    margin-left: 10%;
+    width: 35%;
 }
 
 .contact{
@@ -100,8 +100,9 @@ i{
 
 img{
     border-radius: 50%;
-    width:60%;
-    height: 100%;
+    width:50%;
+    height: 90%;
+    border: 1px solid black;
 }
 
 .flex-element3{
