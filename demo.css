@@ -14,13 +14,12 @@ body{
     margin: 0 auto;
     max-width: 95% ;
     text-align: center;
-    
 }
 
 .outer-label{
     background-color: white;
     margin: 0 auto;
-    max-width: 22% ;
+    width: 40% ;
     padding-top: 0.5%;
     padding-bottom: 0.5%;
 }
@@ -54,18 +53,18 @@ body{
 
 .profile{
     margin: 1%;
-    max-width: 30%;
+    width: 30%;
 }
 
 .image{
     margin-top: 1%;
-    margin-left: 9%;
-    max-width: 30%;
+    margin-left: 15%;
+    width: 50%;
 }
 
 .contact{
     margin-top: 1%;
-    max-width: 100%;
+    width: 40%;
 }
 
 .address{
@@ -113,7 +112,8 @@ img{
 }
 
 .education{
-    margin-right: 5%;
+    margin-right: 10%;
+    width: 30%;
 }
 
 .edu-title{   
@@ -130,12 +130,13 @@ img{
 
 .skills{
     margin-right: 10%;
+    width: 30%;
 }
 
 .skill-title{
     padding :2%;
     text-align: center;    
-    border: 5px solid #e6be8a;
+    border: 2px solid #e6be8a;
     background-color:#e6be8a;
     font-weight: 600;
 }
@@ -145,7 +146,7 @@ img{
 }
 
 .expertise{
-    flex-grow: 1;
+    width: 30%;
 }
 
 .exp-content >ul{
