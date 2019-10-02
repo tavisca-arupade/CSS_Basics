@@ -178,7 +178,28 @@ img{
     font-weight: 600;
 }
 
-.flex-element5{
+.flex-element5, .flex-element6, .flex-element7{
     display: flex;
     padding-top: 2%;
+}
+
+.interior-title, .exterior-title{
+    font-weight: 600;
+}
+
+.interior-content, .exterior-content{
+    color: #abb8b8;
+}
+
+.stamp1{
+    margin-left: 60%;
+    text-align: center;
+    border: 1px solid black;
+    background-color:#e6be8a;
+    padding :1% 0.3% 1% 0.3%;
+}
+
+.flex-element7{
+    margin-top: 2%;
+    background-color: #e6be8a;
 }
